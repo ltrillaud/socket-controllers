@@ -1,6 +1,6 @@
 {
-  "name": "socket-controllers",
-  "private": true,
+  "name": "@doclab/socket-controllers",
+  "private": false,
   "version": "0.0.5",
   "description": "Use class-based controllers to handle websocket events",
   "license": "MIT",
