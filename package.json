@@ -5,7 +5,11 @@
   "description": "Use class-based controllers to handle websocket events",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "main": "index.js",
+  "main": "./dist/src/index.js",
+  "type": "./dist/src/index.d.ts",
+  "files": [
+    "dist/src"
+  ],
   "keywords": [
     "websocket",
     "websockets",
